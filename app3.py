@@ -1,4 +1,4 @@
-# app.py
+
 from flask import Flask, render_template, request, send_file
 from PIL import Image, ImageFilter, ImageEnhance, ImageDraw, ImageFont
 import base64
